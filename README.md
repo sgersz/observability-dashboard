@@ -61,4 +61,12 @@ Optional future integrations: Loki + Promtail for logs; Pi-hole metrics exporter
 - Add alerting to Grafana dashboards
 - Explore integration with Pi-hole DNS logs
 
+## 🔗 Related Projects
+
+Explore more of my infrastructure and automation projects:
+
+- [Homelab 2025](https://github.com/sgersz/homelab2025): A secure, scalable home lab environment combining virtualization, containerization, automation, and Zero Trust networking.
+- [Simple CI/CD Pipeline](https://github.com/sgersz/simplecicd): A hands-on demo of using GitHub Actions to automate Docker builds for a Flask web app.
+- [Workspace Cost Reduction](https://github.com/sgersz/workspacecostreduction): A documented cloud cost optimization project migrating from AWS Workspaces to EC2 + Zscaler ZPA, achieving ~35% per-user savings.
+
 👉 [Connect on LinkedIn](https://www.linkedin.com/in/stevengersztyn/)
