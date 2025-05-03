@@ -73,4 +73,6 @@ Explore more of my infrastructure and automation projects:
 
 🔹 [Simple CI/CD Pipeline](https://github.com/sgersz/simplecicd): Demo repo automating Docker builds for a Flask app using GitHub Actions.
 
-👉 [Connect on LinkedIn](https://www.linkedin.com/in/stevengersztyn/)
+## 🚀 **Connect with me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/stevengersztyn/)
