@@ -45,7 +45,7 @@ Optional future integrations: Loki + Promtail for logs; Pi-hole metrics exporter
 4. Optional dashboards imported from Grafana’s dashboard repository
 
 ## How I did this framework
-![High level how to](docs/howididthis.md)
+- High level "how to do this": [starthere.md](docs/howididthis.md)
 
 ## 🖥️ Example Dashboards
 
